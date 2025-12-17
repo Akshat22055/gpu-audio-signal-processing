@@ -1,0 +1,2 @@
+Running GPU signal filtering with kernel size 5
+GPU signal processing completed
